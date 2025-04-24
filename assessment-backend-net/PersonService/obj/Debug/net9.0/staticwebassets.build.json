@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qUG3O2fMJYMujnHuppCZq4m8/q9Jcyeryd1VdGwQLdc=",
+  "Source": "PersonService",
+  "BasePath": "_content/PersonService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
